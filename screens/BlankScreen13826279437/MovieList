@@ -5,3 +5,5 @@ import {Button} from "react-native"
 const MovieList = ()=>{
 return <Button title="test" />
 }
+
+return MovieList
